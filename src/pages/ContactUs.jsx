@@ -357,7 +357,7 @@ export const ContactUs = () => {
           <p className="text-center">
             {" "}
             <span className="font-medium pr-3">Tourist Helpline</span>For any
-            emergencies, please call: +91-112-123-4567
+            emergencies, please call: +91-112-123-4567,         email id: rajayush389@gmail.com
           </p>
         </div>
       </div>
